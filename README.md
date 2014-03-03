@@ -18,4 +18,3 @@ You need the LaTeXTools plug-in
 4. Follow the instructions https://github.com/SublimeText/LaTeXTools to ensure you have the right PDF Viewer and LaTeX pages for your OS.
 
 5. Press Ctrl+B to build your document (the PDF should automatically open at the place you are editing)
-test
